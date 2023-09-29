@@ -16,6 +16,5 @@ public class Main {
         System.out.println("I");
         System.out.println("J");
         System.out.println("K");
-        System.out.println("L");
     }
 }
