@@ -1,6 +1,6 @@
 /**
  * @author : Kavithma Thushal
- * @project : Github-Attendance
+ * @project : GitHub-Attendance
  * @since : 6:14 PM - 9/18/2023
  **/
 public class Main {
