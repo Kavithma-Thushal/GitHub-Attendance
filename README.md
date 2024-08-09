@@ -2,7 +2,7 @@
 
 GitHub Attendance is a Java based application designed to manage and track attendance records. The application allows
 users to record and monitor attendance efficiently, making it a useful tool for organizations, educational institutions,
-or any team that needs to keep track of attendance.
+or any team that needs to keep track of attendance.<br/>
 
 <div align="center">
 
