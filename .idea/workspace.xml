@@ -37,21 +37,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "consents",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;consents&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -100,174 +100,7 @@
       <workItem from="1729387558549" duration="334000" />
       <workItem from="1729471091967" duration="291000" />
       <workItem from="1729559637515" duration="1035000" />
-    </task>
-    <task id="LOCAL-00584" summary="Updated">
-      <option name="closed" value="true" />
-      <created>1729387799988</created>
-      <option name="number" value="00584" />
-      <option name="presentableId" value="LOCAL-00584" />
-      <option name="project" value="LOCAL" />
-      <updated>1729387799988</updated>
-    </task>
-    <task id="LOCAL-00585" summary="Updated">
-      <option name="closed" value="true" />
-      <created>1729387812926</created>
-      <option name="number" value="00585" />
-      <option name="presentableId" value="LOCAL-00585" />
-      <option name="project" value="LOCAL" />
-      <updated>1729387812926</updated>
-    </task>
-    <task id="LOCAL-00586" summary="Updated">
-      <option name="closed" value="true" />
-      <created>1729387824571</created>
-      <option name="number" value="00586" />
-      <option name="presentableId" value="LOCAL-00586" />
-      <option name="project" value="LOCAL" />
-      <updated>1729387824571</updated>
-    </task>
-    <task id="LOCAL-00587" summary="Updated">
-      <option name="closed" value="true" />
-      <created>1729387837300</created>
-      <option name="number" value="00587" />
-      <option name="presentableId" value="LOCAL-00587" />
-      <option name="project" value="LOCAL" />
-      <updated>1729387837300</updated>
-    </task>
-    <task id="LOCAL-00588" summary="Updated">
-      <option name="closed" value="true" />
-      <created>1729387850946</created>
-      <option name="number" value="00588" />
-      <option name="presentableId" value="LOCAL-00588" />
-      <option name="project" value="LOCAL" />
-      <updated>1729387850946</updated>
-    </task>
-    <task id="LOCAL-00589" summary="Updated">
-      <option name="closed" value="true" />
-      <created>1729387868561</created>
-      <option name="number" value="00589" />
-      <option name="presentableId" value="LOCAL-00589" />
-      <option name="project" value="LOCAL" />
-      <updated>1729387868561</updated>
-    </task>
-    <task id="LOCAL-00590" summary="Updated">
-      <option name="closed" value="true" />
-      <created>1729387884810</created>
-      <option name="number" value="00590" />
-      <option name="presentableId" value="LOCAL-00590" />
-      <option name="project" value="LOCAL" />
-      <updated>1729387884810</updated>
-    </task>
-    <task id="LOCAL-00591" summary="Updated">
-      <option name="closed" value="true" />
-      <created>1729471118247</created>
-      <option name="number" value="00591" />
-      <option name="presentableId" value="LOCAL-00591" />
-      <option name="project" value="LOCAL" />
-      <updated>1729471118248</updated>
-    </task>
-    <task id="LOCAL-00592" summary="Updated">
-      <option name="closed" value="true" />
-      <created>1729471139633</created>
-      <option name="number" value="00592" />
-      <option name="presentableId" value="LOCAL-00592" />
-      <option name="project" value="LOCAL" />
-      <updated>1729471139633</updated>
-    </task>
-    <task id="LOCAL-00593" summary="Updated">
-      <option name="closed" value="true" />
-      <created>1729471157183</created>
-      <option name="number" value="00593" />
-      <option name="presentableId" value="LOCAL-00593" />
-      <option name="project" value="LOCAL" />
-      <updated>1729471157183</updated>
-    </task>
-    <task id="LOCAL-00594" summary="Updated">
-      <option name="closed" value="true" />
-      <created>1729471168461</created>
-      <option name="number" value="00594" />
-      <option name="presentableId" value="LOCAL-00594" />
-      <option name="project" value="LOCAL" />
-      <updated>1729471168461</updated>
-    </task>
-    <task id="LOCAL-00595" summary="Updated">
-      <option name="closed" value="true" />
-      <created>1729471180368</created>
-      <option name="number" value="00595" />
-      <option name="presentableId" value="LOCAL-00595" />
-      <option name="project" value="LOCAL" />
-      <updated>1729471180369</updated>
-    </task>
-    <task id="LOCAL-00596" summary="Updated">
-      <option name="closed" value="true" />
-      <created>1729471192975</created>
-      <option name="number" value="00596" />
-      <option name="presentableId" value="LOCAL-00596" />
-      <option name="project" value="LOCAL" />
-      <updated>1729471192975</updated>
-    </task>
-    <task id="LOCAL-00597" summary="Updated">
-      <option name="closed" value="true" />
-      <created>1729471204793</created>
-      <option name="number" value="00597" />
-      <option name="presentableId" value="LOCAL-00597" />
-      <option name="project" value="LOCAL" />
-      <updated>1729471204793</updated>
-    </task>
-    <task id="LOCAL-00598" summary="Updated">
-      <option name="closed" value="true" />
-      <created>1729471217716</created>
-      <option name="number" value="00598" />
-      <option name="presentableId" value="LOCAL-00598" />
-      <option name="project" value="LOCAL" />
-      <updated>1729471217716</updated>
-    </task>
-    <task id="LOCAL-00599" summary="Updated">
-      <option name="closed" value="true" />
-      <created>1729471231494</created>
-      <option name="number" value="00599" />
-      <option name="presentableId" value="LOCAL-00599" />
-      <option name="project" value="LOCAL" />
-      <updated>1729471231495</updated>
-    </task>
-    <task id="LOCAL-00600" summary="Updated">
-      <option name="closed" value="true" />
-      <created>1729471243099</created>
-      <option name="number" value="00600" />
-      <option name="presentableId" value="LOCAL-00600" />
-      <option name="project" value="LOCAL" />
-      <updated>1729471243099</updated>
-    </task>
-    <task id="LOCAL-00601" summary="Updated">
-      <option name="closed" value="true" />
-      <created>1729471254003</created>
-      <option name="number" value="00601" />
-      <option name="presentableId" value="LOCAL-00601" />
-      <option name="project" value="LOCAL" />
-      <updated>1729471254003</updated>
-    </task>
-    <task id="LOCAL-00602" summary="Updated">
-      <option name="closed" value="true" />
-      <created>1729471265242</created>
-      <option name="number" value="00602" />
-      <option name="presentableId" value="LOCAL-00602" />
-      <option name="project" value="LOCAL" />
-      <updated>1729471265242</updated>
-    </task>
-    <task id="LOCAL-00603" summary="Updated">
-      <option name="closed" value="true" />
-      <created>1729471279604</created>
-      <option name="number" value="00603" />
-      <option name="presentableId" value="LOCAL-00603" />
-      <option name="project" value="LOCAL" />
-      <updated>1729471279604</updated>
-    </task>
-    <task id="LOCAL-00604" summary="Updated">
-      <option name="closed" value="true" />
-      <created>1729471291941</created>
-      <option name="number" value="00604" />
-      <option name="presentableId" value="LOCAL-00604" />
-      <option name="project" value="LOCAL" />
-      <updated>1729471291941</updated>
+      <workItem from="1729659930863" duration="321000" />
     </task>
     <task id="LOCAL-00605" summary="Updated">
       <option name="closed" value="true" />
@@ -493,7 +326,175 @@
       <option name="project" value="LOCAL" />
       <updated>1729560675523</updated>
     </task>
-    <option name="localTasksCounter" value="633" />
+    <task id="LOCAL-00633" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1729659959899</created>
+      <option name="number" value="00633" />
+      <option name="presentableId" value="LOCAL-00633" />
+      <option name="project" value="LOCAL" />
+      <updated>1729659959900</updated>
+    </task>
+    <task id="LOCAL-00634" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1729659996354</created>
+      <option name="number" value="00634" />
+      <option name="presentableId" value="LOCAL-00634" />
+      <option name="project" value="LOCAL" />
+      <updated>1729659996354</updated>
+    </task>
+    <task id="LOCAL-00635" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1729660027641</created>
+      <option name="number" value="00635" />
+      <option name="presentableId" value="LOCAL-00635" />
+      <option name="project" value="LOCAL" />
+      <updated>1729660027641</updated>
+    </task>
+    <task id="LOCAL-00636" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1729660042495</created>
+      <option name="number" value="00636" />
+      <option name="presentableId" value="LOCAL-00636" />
+      <option name="project" value="LOCAL" />
+      <updated>1729660042496</updated>
+    </task>
+    <task id="LOCAL-00637" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1729660054100</created>
+      <option name="number" value="00637" />
+      <option name="presentableId" value="LOCAL-00637" />
+      <option name="project" value="LOCAL" />
+      <updated>1729660054100</updated>
+    </task>
+    <task id="LOCAL-00638" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1729660067998</created>
+      <option name="number" value="00638" />
+      <option name="presentableId" value="LOCAL-00638" />
+      <option name="project" value="LOCAL" />
+      <updated>1729660067998</updated>
+    </task>
+    <task id="LOCAL-00639" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1729660079664</created>
+      <option name="number" value="00639" />
+      <option name="presentableId" value="LOCAL-00639" />
+      <option name="project" value="LOCAL" />
+      <updated>1729660079665</updated>
+    </task>
+    <task id="LOCAL-00640" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1729660091215</created>
+      <option name="number" value="00640" />
+      <option name="presentableId" value="LOCAL-00640" />
+      <option name="project" value="LOCAL" />
+      <updated>1729660091215</updated>
+    </task>
+    <task id="LOCAL-00641" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1729660102172</created>
+      <option name="number" value="00641" />
+      <option name="presentableId" value="LOCAL-00641" />
+      <option name="project" value="LOCAL" />
+      <updated>1729660102172</updated>
+    </task>
+    <task id="LOCAL-00642" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1729660113164</created>
+      <option name="number" value="00642" />
+      <option name="presentableId" value="LOCAL-00642" />
+      <option name="project" value="LOCAL" />
+      <updated>1729660113164</updated>
+    </task>
+    <task id="LOCAL-00643" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1729660129230</created>
+      <option name="number" value="00643" />
+      <option name="presentableId" value="LOCAL-00643" />
+      <option name="project" value="LOCAL" />
+      <updated>1729660129230</updated>
+    </task>
+    <task id="LOCAL-00644" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1729660142640</created>
+      <option name="number" value="00644" />
+      <option name="presentableId" value="LOCAL-00644" />
+      <option name="project" value="LOCAL" />
+      <updated>1729660142640</updated>
+    </task>
+    <task id="LOCAL-00645" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1729660153822</created>
+      <option name="number" value="00645" />
+      <option name="presentableId" value="LOCAL-00645" />
+      <option name="project" value="LOCAL" />
+      <updated>1729660153822</updated>
+    </task>
+    <task id="LOCAL-00646" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1729660165708</created>
+      <option name="number" value="00646" />
+      <option name="presentableId" value="LOCAL-00646" />
+      <option name="project" value="LOCAL" />
+      <updated>1729660165708</updated>
+    </task>
+    <task id="LOCAL-00647" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1729660176759</created>
+      <option name="number" value="00647" />
+      <option name="presentableId" value="LOCAL-00647" />
+      <option name="project" value="LOCAL" />
+      <updated>1729660176759</updated>
+    </task>
+    <task id="LOCAL-00648" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1729660187675</created>
+      <option name="number" value="00648" />
+      <option name="presentableId" value="LOCAL-00648" />
+      <option name="project" value="LOCAL" />
+      <updated>1729660187675</updated>
+    </task>
+    <task id="LOCAL-00649" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1729660200253</created>
+      <option name="number" value="00649" />
+      <option name="presentableId" value="LOCAL-00649" />
+      <option name="project" value="LOCAL" />
+      <updated>1729660200253</updated>
+    </task>
+    <task id="LOCAL-00650" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1729660214772</created>
+      <option name="number" value="00650" />
+      <option name="presentableId" value="LOCAL-00650" />
+      <option name="project" value="LOCAL" />
+      <updated>1729660214772</updated>
+    </task>
+    <task id="LOCAL-00651" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1729660225564</created>
+      <option name="number" value="00651" />
+      <option name="presentableId" value="LOCAL-00651" />
+      <option name="project" value="LOCAL" />
+      <updated>1729660225564</updated>
+    </task>
+    <task id="LOCAL-00652" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1729660237196</created>
+      <option name="number" value="00652" />
+      <option name="presentableId" value="LOCAL-00652" />
+      <option name="project" value="LOCAL" />
+      <updated>1729660237196</updated>
+    </task>
+    <task id="LOCAL-00653" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1729660247615</created>
+      <option name="number" value="00653" />
+      <option name="presentableId" value="LOCAL-00653" />
+      <option name="project" value="LOCAL" />
+      <updated>1729660247615</updated>
+    </task>
+    <option name="localTasksCounter" value="654" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
